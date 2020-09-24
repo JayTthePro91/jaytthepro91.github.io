@@ -19,10 +19,10 @@ function App() {
         My name is { "Juan Alvarez " }
         and I 'm going to master React  </p>        <
         a className = "App-link"
-        href = "https://reactjs.org"
+        href = "https://github.com/JayTthePro91"
         target = "_blank"
         rel = "noopener noreferrer" >
-        Learn React < /a>     < /
+        Check me out < /a>     < /
         header > <
         /div>
     );
